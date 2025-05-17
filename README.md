@@ -15,13 +15,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Aniketyada63503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raghav_shiva04" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shiva-raghav-96b94a255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shiva-raghav" height="30" width="40" /></a>
-<a href="https://instagram.com/ragshiv04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ragshiv04" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/shiva2612" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shiva2612" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/helloforces" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="helloforces" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ragshiv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ragshiv" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/shiva26au4o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shiva26au4o" height="30" width="40" /></a>
+<a href="https://twitter.com/Aniketyada63503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Aniketyada63503" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/aniket-yadav-99737124a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket-yadav-99737124a" height="30" width="40" /></a>
+<a href="https://instagram.com/aniketyaddav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ragshiv04" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/anii_54054" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anii_54054" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/tryNobsrv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tryNobrsv" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/its_anii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="its_anii" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/its_anii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="its_anii" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
